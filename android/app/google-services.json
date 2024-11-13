@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "549403591582",
+    "project_id": "inclass14cw7",
+    "storage_bucket": "inclass14cw7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549403591582:android:4f70a2e48d0f2da1704c8f",
+        "android_client_info": {
+          "package_name": "com.example.inclass14cw7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8ZHryYxBQqylPKaZ2njuflwORHhd2iW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
